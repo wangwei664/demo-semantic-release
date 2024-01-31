@@ -1,1 +1,1 @@
-console.log("Hi semantic-release!");
+console.log("semantic-release 配置提交通过了");
