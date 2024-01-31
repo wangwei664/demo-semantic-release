@@ -12,5 +12,8 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/wangwei664/demo-semantic-release#readme"
+  "homepage": "https://github.com/wangwei664/demo-semantic-release#readme",
+  "devDependencies": {
+    "semantic-release": "^21.0.9"
+  }
 }
