@@ -1,1 +1,1 @@
-console.log("Hello semantic-release!");
+console.log("Hi semantic-release!");
