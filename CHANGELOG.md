@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/wangwei664/demo-semantic-release/compare/v1.2.0...v1.3.0) (2024-02-01)
+
+
+### Features
+
+* CI 服务权限调试啊 ([a625c49](https://github.com/wangwei664/demo-semantic-release/commit/a625c49c4a9f411537e6c2ecef7548c7f53143b7))
+
 # [1.2.0](https://github.com/wangwei664/demo-semantic-release/compare/v1.1.0...v1.2.0) (2024-02-01)
 
 
