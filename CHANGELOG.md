@@ -1,3 +1,11 @@
+## [1.3.1](https://github.com/wangwei664/demo-semantic-release/compare/v1.3.0...v1.3.1) (2024-02-01)
+
+
+### Bug Fixes
+
+* CI 删除 GH_TOKEN ([dab496e](https://github.com/wangwei664/demo-semantic-release/commit/dab496e8ae4141d560b219fd6cedfc4d46885e73))
+* token 权限调试 ([85bae0f](https://github.com/wangwei664/demo-semantic-release/commit/85bae0ff189ab13337fe754608043150c80eb01f))
+
 # [1.3.0](https://github.com/wangwei664/demo-semantic-release/compare/v1.2.0...v1.3.0) (2024-02-01)
 
 
