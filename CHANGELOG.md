@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/wangwei664/demo-semantic-release/compare/v1.0.0...v1.1.0) (2024-02-01)
+
+
+### Bug Fixes
+
+* CI token 调试 ([508d4dc](https://github.com/wangwei664/demo-semantic-release/commit/508d4dc9ff957c21c24b88a813767c89ea712e1e))
+* CI 配置权限测试 ([28990ca](https://github.com/wangwei664/demo-semantic-release/commit/28990ca19b1135042889e5dcd4f57ecd19ac554b))
+* 修复 CI 配置文件 ([2c1e78d](https://github.com/wangwei664/demo-semantic-release/commit/2c1e78d724859fa54ab176228850bc8901a7e108))
+
+
+### Features
+
+* 修改 github workflows 配置文件 ([b9bd5d4](https://github.com/wangwei664/demo-semantic-release/commit/b9bd5d41b426658b5ec378f610f434fe39e41465))
+
 # 1.0.0 (2024-02-01)
 
 
