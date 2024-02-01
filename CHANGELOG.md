@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/wangwei664/demo-semantic-release/compare/v1.3.1...v1.4.0) (2024-02-01)
+
+
+### Bug Fixes
+
+* CI token auth ([ebf81a3](https://github.com/wangwei664/demo-semantic-release/commit/ebf81a34cfea972283189317f3e33f22ba9f7aec))
+* CI token 推送权限调试 ([aac7d07](https://github.com/wangwei664/demo-semantic-release/commit/aac7d07522f7603548174cff1209588b5450216f))
+* 流程中修改 GITHUB_TOKEN 权限 ([9d7eec4](https://github.com/wangwei664/demo-semantic-release/commit/9d7eec40d1d76ce1008a9c1d7e321c7d729f63cc))
+
+
+### Features
+
+* CI token 权限验证 ([2a70488](https://github.com/wangwei664/demo-semantic-release/commit/2a7048810c6131f10a82f10c83129d10b53c96a5))
+
 ## [1.3.1](https://github.com/wangwei664/demo-semantic-release/compare/v1.3.0...v1.3.1) (2024-02-01)
 
 
