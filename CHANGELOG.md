@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/wangwei664/demo-semantic-release/compare/v1.1.0...v1.2.0) (2024-02-01)
+
+
+### Features
+
+* CI token 权限调试 ([fd75aa6](https://github.com/wangwei664/demo-semantic-release/commit/fd75aa6d82fed63a4dc031c36c0353afef23656a))
+* CI token 调试 ([e75f30c](https://github.com/wangwei664/demo-semantic-release/commit/e75f30c17a8544fb047d0d44f2d53643d213a072))
+
 # [1.1.0](https://github.com/wangwei664/demo-semantic-release/compare/v1.0.0...v1.1.0) (2024-02-01)
 
 
