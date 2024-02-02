@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/wangwei664/demo-semantic-release/compare/v1.4.1...v1.4.2) (2024-02-02)
+
+
+### Bug Fixes
+
+* next 分支发布修订版本 ([917126c](https://github.com/wangwei664/demo-semantic-release/commit/917126cd103d7692c26bb32a3fbbe46382032e0d))
+
 ## [1.4.1](https://github.com/wangwei664/demo-semantic-release/compare/v1.4.0...v1.4.1) (2024-02-01)
 
 
